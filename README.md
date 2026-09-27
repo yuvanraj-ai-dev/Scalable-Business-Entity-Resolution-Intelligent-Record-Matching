@@ -10,7 +10,7 @@ Built for **scalable data integration and record linkage**, this project demonst
 
 ## Dataset
 
-The datasets are hosted on Kaggle and are not included in this GitHub repository. Download them here: [Kaggle dataset]([https://www.kaggle.com/datasets/YOUR_KAGGLE_USERNAME/YOUR_DATASET_SLUG](https://www.kaggle.com/datasets/deepdas07/amazon-ml-challenge-2026)). Replace this placeholder with the published Kaggle dataset URL.
+The datasets are hosted on Kaggle and are not included in this GitHub repository. Download them here: [Kaggle dataset](https://www.kaggle.com/datasets/deepdas07/amazon-ml-challenge-2026). Replace this placeholder with the published Kaggle dataset URL.
 
 ---
 
