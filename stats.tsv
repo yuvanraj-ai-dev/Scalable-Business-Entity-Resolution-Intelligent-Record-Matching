@@ -1,0 +1,9 @@
+file	lines_including_header	data_rows	size_bytes
+dataset/test/test_source1.tsv	1732545	1732544	175022086
+dataset/test/test_source2.tsv	4887274	4887273	509456422
+dataset/test/test_source3.tsv	5082317	5082316	506002772
+dataset/train/train_ground_truth.tsv	2206822	2206821	127015583
+dataset/train/train_source1.tsv	2206822	2206821	210069713
+dataset/train/train_source2.tsv	5034617	5034616	489301488
+dataset/train/train_source3.tsv	5285604	5285603	503705637
+dataset/ (total)	26436001	26435994	2520573701
